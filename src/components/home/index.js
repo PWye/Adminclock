@@ -95,8 +95,8 @@ export default class home extends Component {
 render() {
     return(
       <div className = "home">
-        <div  className = "home-logout">
-            <Link to ='/login'></Link>
+        <div>
+            <Link to ='/login' className = "home-logout"></Link>
         </div>
         <div className = "home-time">{this.state.time}</div>
         <div className = "home-week">
@@ -145,4 +145,3 @@ render() {
 }
 }
 
-// src = "../../images/logout.png" alt = "logout"
