@@ -126,17 +126,17 @@ render() {
            </div>
            <span className="company-1 change3"> -20</span>
         </div>
-        <div className = "tourist2">
+        <div className = "companyuesr">
            <div className = "company-1">
-                <span className = "tourist2-num">882</span><br />
-                <span className = "tourist2-text">打卡企业</span>
+                <span className = "companyuesr-num">882</span><br />
+                <span className = "companyuesr-text">打卡企业</span>
            </div>
            <span className="company-1 change4"> +10</span>
         </div>
-        <div className = "tourist3">
+        <div className = "touristuser">
            <div className = "company-1">
-                <span className = "tourist3-num">3400</span><br />
-                <span className = "tourist3-text">打卡员工</span>
+                <span className = "touristuser-num">3400</span><br />
+                <span className = "touristuser-text">打卡员工</span>
            </div>
            <span className="company-1 change5"> +35</span>
         </div>
